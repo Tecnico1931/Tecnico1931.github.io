@@ -1,16 +1,14 @@
-# Sample Authors
-# Remove file or replace with your own
-
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+Raul Santos:
+  name: Raul Santos
+  bio: "Director of Engineering at Peloton Interactive. Building and scaling high-performance engineering teams in New York City."
+  twitter: "Tecnico1931"
   links:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/raulesantos/
+      icon: fab fa-linkedin
+    - title: GitHub
+      url: https://github.com/Tecnico1931
+      icon: fab fa-github
     - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+      url: https://twitter.com/Tecnico1931
+      icon: fab fa-twitter
